@@ -1,0 +1,19 @@
+.carousel{
+	--nb: 1;
+	display: grid;
+	overflow: hidden;
+	overflow-x: scroll;
+	grid-auto-columns: calc(100% / var(--nb) - var(--gap) * ((var(--nb) - 1) / var(--nb)));
+	grid-gap: var(--gap);
+	user-select: none;
+	-ms-overflow-style: none;  
+	scrollbar-width: none;
+	
+	&::-webkit-scrollbar {
+		display: none;
+	}
+	.item{
+		grid-row: 1;
+	}
+}
+
