@@ -75,6 +75,12 @@ btn_next.onclick = () => carousel1.next();
 
 
 ## Demo
+loop with grid pos 
+[See codepen demo](https://codepen.io/natjo/pen/LYRwKyW?editors=0011)
+
+
+
+
 Scroll native:
 [See codepen demo](https://codepen.io/natjo/pen/JjRvoNP?editors=0010)
 
