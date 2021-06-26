@@ -86,3 +86,7 @@ Scroll native:
 
 
 [See codepen demo](https://codepen.io/natjo/pen/QWERPrb?editors=0110)
+
+No loop more simple
+[See codepen demo](https://codepen.io/natjo/pen/VwpBjWE)
+
