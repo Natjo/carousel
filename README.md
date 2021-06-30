@@ -79,14 +79,12 @@ loop with grid pos
 [See codepen demo](https://codepen.io/natjo/pen/LYRwKyW?editors=0011)
 
 
-
-
 Scroll native:
 [See codepen demo](https://codepen.io/natjo/pen/JjRvoNP?editors=0010)
 
 
 [See codepen demo](https://codepen.io/natjo/pen/QWERPrb?editors=0110)
 
-No loop more simple
+-> No loop more simple
 [See codepen demo](https://codepen.io/natjo/pen/VwpBjWE)
 
